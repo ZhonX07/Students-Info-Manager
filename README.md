@@ -1,5 +1,7 @@
 # Students-Info-Manager
 
+![Github stars](https://img.shields.io/github/stars/DWCTOD/AI-study.svg)
+
 ## Hello there!
 
 ## 当前版本：0.0.1-ArrowLake-Alpha
